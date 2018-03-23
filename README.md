@@ -10,8 +10,14 @@ Bundle of free resources to improve as a developer
 :bookmark_tabs: - Documentation
 :earth_americas: - Site
 
+## Must Read
+
++ page_facing_up: - [I'm a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 
 ## Skills
+
+### UX / UI
++ :earth_americas: - [RefactoringUI](https://refactoringui.com/)
 
 ### HTML5
 + :earth_americas: - [HTML5 Doctor](http://html5doctor.com/)
@@ -24,6 +30,10 @@ Bundle of free resources to improve as a developer
 ### LESS
 
 ### JavaScript
++ :computer: - [Javascript30](https://javascript30.com/)
 
 
 ### Node
+
+### Vue
++ :bookmark_tabs: - [The Vue cookbook](https://vuejs.org/v2/cookbook/)
