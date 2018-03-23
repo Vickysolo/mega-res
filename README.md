@@ -12,7 +12,7 @@ Bundle of free resources to improve as a developer
 
 ## Must Read
 
-+ page_facing_up: - [I'm a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
++ :page_facing_up: - [I'm a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 
 ## Skills
 
