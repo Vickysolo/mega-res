@@ -34,6 +34,8 @@ Bundle of free resources to improve as a developer
 
 ### SASS
 
++ :computer: :movie_camera: - [SASS- Codeschool](http://sass.codeschool.com/levels/1)
+
 ### LESS
 
 ### JavaScript
@@ -44,3 +46,4 @@ Bundle of free resources to improve as a developer
 
 ### Vue
 + :bookmark_tabs: - [The Vue cookbook](https://vuejs.org/v2/cookbook/)
++ :movie_camera: - [Learn Vue2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
