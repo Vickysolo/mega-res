@@ -13,6 +13,7 @@ Bundle of free resources to improve as a developer
 ## Must Read
 
 + :page_facing_up: - [I'm a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
++ :books: - [Front End Handbook - Learning Front End Development](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
 ## Skills
 
@@ -22,8 +23,14 @@ Bundle of free resources to improve as a developer
 ### HTML5
 + :earth_americas: - [HTML5 Doctor](http://html5doctor.com/)
 + :earth_americas: - [HTML5 Cheatsheet](https://digital.com/tools/html-cheatsheet/)
++ :earth_americas: :books: - [How to code in HTML5 and CSS](http://howtocodeinhtml.com/#toc)
 
 ### CSS
++ :earth_americas: - [Estructura CSS](http://es.learnlayout.com/)
++ :earth_americas: - [MDN CSS Tutorials](https://developer.mozilla.org/es/docs/Web/CSS/Tutorials)
++ :earth_americas: :books: - [MarkSheet - A free HTML and CSS Tutorial](https://marksheet.io/)
++ :earth_americas: :books: - [learn HTML and CSS](https://learn.shayhowe.com/html-css/)
++ :earth_americas: :books: - [Advanced HTML and CSS](https://learn.shayhowe.com/advanced-html-css/)
 
 ### SASS
 
