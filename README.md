@@ -61,7 +61,7 @@ Bundle of free resources to improve as a developer
 
 
 ### NODE
-+ :octocat: - (Node.js Best Practises)[https://github.com/i0natan/nodebestpractices]
++ :octocat: - (Node.js Best Practices)[https://github.com/i0natan/nodebestpractices]
 
 ### Vue
 + :bookmark_tabs: - [The Vue cookbook](https://vuejs.org/v2/cookbook/)
