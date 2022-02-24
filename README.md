@@ -58,10 +58,16 @@ Bundle of free resources to improve as a developer
 + :computer: - [Javascript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 + :earth_americas: - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 + :octocat: - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
++ 📄 - [6 Killer Functions in JavaScript that Made My Life Easier](https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68)
 
 
 ### NODE
 + :octocat: - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+
+### React
+
+### Nextjs
+📑 - [Next Docs](https://nextjs.org/docs)
 
 ### Vue
 + :bookmark_tabs: - [The Vue cookbook](https://vuejs.org/v2/cookbook/)
